@@ -1,0 +1,66 @@
+
+/* Typography
+================================= */
+.highlighted {
+	background-color: yellow;
+}
+
+#content {
+	font-size: 1.0em;
+	font-weight: 5;
+}
+
+#urlInput {
+	font-size: 1.5em;
+}
+
+/* Layout
+================================= */
+p {
+	font-size: 1.5em;
+}
+
+#header {
+	width: 100%;
+	height: 400px;
+
+}
+
+#content {
+  width: 85%;
+  margin: 200px 0 50px 120px;
+}
+
+#searchForm {
+	width: 50%;
+	margin: 0 auto;
+}
+
+#urlInput {
+    width: 100%;
+    height: 40px;
+}
+
+
+/* Buttons
+================================= */
+
+
+
+/* Jumbotron
+================================= */
+
+
+
+
+/* Logos & Icons
+================================= */
+
+/* Transformations AND Animations
+================================= */
+
+
+
+
+/* Media Queries
+================================= */
